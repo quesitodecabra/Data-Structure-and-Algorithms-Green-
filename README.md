@@ -1,6 +1,7 @@
 # Data Structure and Algorithms (Green)
 
 In this repo I solve data structures and algorithms for my coding course (Green level). The programming tasks consist of:
+
 - Conditional statements
 - Loop statements
 - User defined functions
@@ -15,4 +16,5 @@ In this repo I solve data structures and algorithms for my coding course (Green 
 - Trees
 - Graphs
 - _Final Contest_
+  
 This repo also contains additional and personal practice problems from Codeforces and Codeforces rounds (Div. 3).
