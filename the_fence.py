@@ -11,5 +11,5 @@ print('*' * n)  # First row
 
 for i in range(n - 2):  # Middle rows
     print('*' + ' ' * (n - 2) + '*')
-
+	
 print('*' * n)  # Last row
